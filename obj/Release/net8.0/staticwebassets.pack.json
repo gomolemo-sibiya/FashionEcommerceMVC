@@ -1,0 +1,285 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\FashionEcommerceMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FashionEcommerceMVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\Cross_Band_Signet_Silver_Ring_Pack.png",
+      "PackagePath": "staticwebassets\\images\\Cross_Band_Signet_Silver_Ring_Pack.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\NoImage.jpg",
+      "PackagePath": "staticwebassets\\images\\NoImage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\Triple_cross_gold_black_earring_pack.png",
+      "PackagePath": "staticwebassets\\images\\Triple_cross_gold_black_earring_pack.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\african-pride-beaded-black-necklace-set.png",
+      "PackagePath": "staticwebassets\\images\\african-pride-beaded-black-necklace-set.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\air-max-90-black-yellow-sneaker.png",
+      "PackagePath": "staticwebassets\\images\\air-max-90-black-yellow-sneaker.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\black-boots.png",
+      "PackagePath": "staticwebassets\\images\\black-boots.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\black-field-jacket.png",
+      "PackagePath": "staticwebassets\\images\\black-field-jacket.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\black-ludlow-loafers.png",
+      "PackagePath": "staticwebassets\\images\\black-ludlow-loafers.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\black-serene-boots.png",
+      "PackagePath": "staticwebassets\\images\\black-serene-boots.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\black-sling-court-high-heels.png",
+      "PackagePath": "staticwebassets\\images\\black-sling-court-high-heels.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\blue-tracksuit.png",
+      "PackagePath": "staticwebassets\\images\\blue-tracksuit.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\blush-longline-t-shirt-fashion-bra.png",
+      "PackagePath": "staticwebassets\\images\\blush-longline-t-shirt-fashion-bra.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\boys-sportswear-air-blue-crew-top.png",
+      "PackagePath": "staticwebassets\\images\\boys-sportswear-air-blue-crew-top.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\brown-cardigan.png",
+      "PackagePath": "staticwebassets\\images\\brown-cardigan.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\brown-mid-shaft-western-boots.png",
+      "PackagePath": "staticwebassets\\images\\brown-mid-shaft-western-boots.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\canvas-design-funnel-neck-jumper.png",
+      "PackagePath": "staticwebassets\\images\\canvas-design-funnel-neck-jumper.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\charcoal-knit-top.png",
+      "PackagePath": "staticwebassets\\images\\charcoal-knit-top.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\circle-printed-long-tights.png",
+      "PackagePath": "staticwebassets\\images\\circle-printed-long-tights.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\core-cotton-peak-black-cap.png",
+      "PackagePath": "staticwebassets\\images\\core-cotton-peak-black-cap.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\core-navy-beanie-accessory-headwear.png",
+      "PackagePath": "staticwebassets\\images\\core-navy-beanie-accessory-headwear.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\cotton-field-camo-jacket.png",
+      "PackagePath": "staticwebassets\\images\\cotton-field-camo-jacket.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\cream-black-circle-print-shirt.png",
+      "PackagePath": "staticwebassets\\images\\cream-black-circle-print-shirt.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\elemental-pink-rise-backpack.png",
+      "PackagePath": "staticwebassets\\images\\elemental-pink-rise-backpack.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\essential-oversized-black-bomber-jacket.png",
+      "PackagePath": "staticwebassets\\images\\essential-oversized-black-bomber-jacket.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\evo-extreme-padel-racquet.png",
+      "PackagePath": "staticwebassets\\images\\evo-extreme-padel-racquet.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\exotek-black-red-sneaker.png",
+      "PackagePath": "staticwebassets\\images\\exotek-black-red-sneaker.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\fc-barcelona-club-dri-fit-soccer-black-cap.png",
+      "PackagePath": "staticwebassets\\images\\fc-barcelona-club-dri-fit-soccer-black-cap.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\flash-padel-racquet.png",
+      "PackagePath": "staticwebassets\\images\\flash-padel-racquet.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\fleece-re-imagined-sail-polo.png",
+      "PackagePath": "staticwebassets\\images\\fleece-re-imagined-sail-polo.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\futura-365-crossbody-pink-bag.png",
+      "PackagePath": "staticwebassets\\images\\futura-365-crossbody-pink-bag.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\genuine-leather-woven-bead-brown-bracelet.png",
+      "PackagePath": "staticwebassets\\images\\genuine-leather-woven-bead-brown-bracelet.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\girls-sportswear-club-french-tery-cropped-hoodie.png",
+      "PackagePath": "staticwebassets\\images\\girls-sportswear-club-french-tery-cropped-hoodie.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\girls-sportswear-club-pullover-pink-hoodie.png",
+      "PackagePath": "staticwebassets\\images\\girls-sportswear-club-pullover-pink-hoodie.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\girls-sportswear-icon-fleece-pink-crew-top.png",
+      "PackagePath": "staticwebassets\\images\\girls-sportswear-icon-fleece-pink-crew-top.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\girls-toddler-dri-fit-one-pink-shorts.png",
+      "PackagePath": "staticwebassets\\images\\girls-toddler-dri-fit-one-pink-shorts.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\grand-court-2-0-white-green-pink-shoes.png",
+      "PackagePath": "staticwebassets\\images\\grand-court-2-0-white-green-pink-shoes.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\graphic-aerodynamik-men-s-long-sleeve-grey-t-shirt.png",
+      "PackagePath": "staticwebassets\\images\\graphic-aerodynamik-men-s-long-sleeve-grey-t-shirt.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\grecian-lion-black-watch.png",
+      "PackagePath": "staticwebassets\\images\\grecian-lion-black-watch.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\infant-boys-2-pack-roarsome-dino-beanie-infants-headwear-white.png",
+      "PackagePath": "staticwebassets\\images\\infant-boys-2-pack-roarsome-dino-beanie-infants-headwear-white.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\junior-elemental-pink-rise-laser-orange-backpack.png",
+      "PackagePath": "staticwebassets\\images\\junior-elemental-pink-rise-laser-orange-backpack.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\junior-infant-advantage-white-green-sneakers.png",
+      "PackagePath": "staticwebassets\\images\\junior-infant-advantage-white-green-sneakers.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\kafey-black-leather-boots.png",
+      "PackagePath": "staticwebassets\\images\\kafey-black-leather-boots.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\kairori-3d-slim-white-jeans.png",
+      "PackagePath": "staticwebassets\\images\\kairori-3d-slim-white-jeans.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\ladies-taupe-51cm-slip.png",
+      "PackagePath": "staticwebassets\\images\\ladies-taupe-51cm-slip.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\laundered-embroided-grey-bucket-hat.png",
+      "PackagePath": "staticwebassets\\images\\laundered-embroided-grey-bucket-hat.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\mercurial-vapor-15-club-black-blue-soccer-boots.png",
+      "PackagePath": "staticwebassets\\images\\mercurial-vapor-15-club-black-blue-soccer-boots.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\natural-melange-check-fluffy-scarf.png",
+      "PackagePath": "staticwebassets\\images\\natural-melange-check-fluffy-scarf.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\north-face-glacier-1-4-zip-pink-top.png",
+      "PackagePath": "staticwebassets\\images\\north-face-glacier-1-4-zip-pink-top.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\premium-core-cream-sweat-shorts.png",
+      "PackagePath": "staticwebassets\\images\\premium-core-cream-sweat-shorts.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\premium-monk-strap-brown-brogue.png",
+      "PackagePath": "staticwebassets\\images\\premium-monk-strap-brown-brogue.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\printed-mesh-midi-dress.png",
+      "PackagePath": "staticwebassets\\images\\printed-mesh-midi-dress.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\puma-power-pale-blue-trackpants.png",
+      "PackagePath": "staticwebassets\\images\\puma-power-pale-blue-trackpants.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\regular-black-plisse-wrap-maxi-dress.png",
+      "PackagePath": "staticwebassets\\images\\regular-black-plisse-wrap-maxi-dress.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\round-fourways-silver-cufflink.png",
+      "PackagePath": "staticwebassets\\images\\round-fourways-silver-cufflink.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\rwc-2023-champions-rugby-ball.png",
+      "PackagePath": "staticwebassets\\images\\rwc-2023-champions-rugby-ball.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\slipstream-natural-sneaker.png",
+      "PackagePath": "staticwebassets\\images\\slipstream-natural-sneaker.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\technical-black-jacket.png",
+      "PackagePath": "staticwebassets\\images\\technical-black-jacket.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\tensaur-sport-2-0-white-shoes.png",
+      "PackagePath": "staticwebassets\\images\\tensaur-sport-2-0-white-shoes.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\tie-front-trapeze-maxi-dress-lime.png",
+      "PackagePath": "staticwebassets\\images\\tie-front-trapeze-maxi-dress-lime.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\tobacco-tote-bag.png",
+      "PackagePath": "staticwebassets\\images\\tobacco-tote-bag.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\triple-and-dragon-pendant-gold-necklace.png",
+      "PackagePath": "staticwebassets\\images\\triple-and-dragon-pendant-gold-necklace.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\triple-cross-gold-black-earring-pack.png",
+      "PackagePath": "staticwebassets\\images\\triple-cross-gold-black-earring-pack.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\unisex-analogue-black-watch.png",
+      "PackagePath": "staticwebassets\\images\\unisex-analogue-black-watch.png"
+    },
+    {
+      "Id": "C:\\Users\\gomol\\OneDrive\\Desktop\\ISE117V\\FashionEcommerceMVC\\FashionEcommerceMVC1\\FashionEcommerceMVC\\wwwroot\\images\\unisex-round-digital-silver-watch.png",
+      "PackagePath": "staticwebassets\\images\\unisex-round-digital-silver-watch.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.FashionEcommerceMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.FashionEcommerceMVC.props",
+      "PackagePath": "build\\FashionEcommerceMVC.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FashionEcommerceMVC.props",
+      "PackagePath": "buildMultiTargeting\\FashionEcommerceMVC.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.FashionEcommerceMVC.props",
+      "PackagePath": "buildTransitive\\FashionEcommerceMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
